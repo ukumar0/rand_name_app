@@ -51,4 +51,8 @@ The app follows a clean and modular architecture:
 - **main.dart**: Entry point of the application.
 - **MyAppState**: Manages state and notifies listeners of updates.
 - **MyHomePage**: Main UI displaying the current word pair and a button for generating the next pair.
+<<<<<<< HEAD
 - **BigCard**: Custom widget displaying the word pair inside a styled card.
+=======
+- **BigCard**: Custom widget displaying the word pair inside a styled card.
+>>>>>>> 262339fa6ea73fa950d5acc54ef77a67b5bdad89
